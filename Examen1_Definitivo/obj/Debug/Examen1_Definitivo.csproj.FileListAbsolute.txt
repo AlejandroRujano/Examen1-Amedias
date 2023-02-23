@@ -1,0 +1,8 @@
+C:\Users\aleja\Source\Repos\Examen1_Definitivo\bin\Debug\Examen1_Definitivo.exe.config
+C:\Users\aleja\Source\Repos\Examen1_Definitivo\bin\Debug\Examen1_Definitivo.exe
+C:\Users\aleja\Source\Repos\Examen1_Definitivo\bin\Debug\Examen1_Definitivo.pdb
+C:\Users\aleja\Source\Repos\Examen1_Definitivo\obj\Debug\Examen1_Definitivo.csproj.AssemblyReference.cache
+C:\Users\aleja\Source\Repos\Examen1_Definitivo\obj\Debug\Examen1_Definitivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleja\Source\Repos\Examen1_Definitivo\obj\Debug\Examen1_Definitivo.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Source\Repos\Examen1_Definitivo\obj\Debug\Examen1_Definitivo.exe
+C:\Users\aleja\Source\Repos\Examen1_Definitivo\obj\Debug\Examen1_Definitivo.pdb
